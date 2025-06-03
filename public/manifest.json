@@ -1,0 +1,29 @@
+{
+  "name": "SikhshaSaathi - Learn at Your Pace",
+  "short_name": "SikhshaSaathi",
+  "description": "Democratizing education through innovative technology and inclusive learning solutions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#3EADCF",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/images/sikhshasaathi-logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/sikhshasaathi-logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "splash_pages": null,
+  "categories": ["education", "learning", "productivity"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
